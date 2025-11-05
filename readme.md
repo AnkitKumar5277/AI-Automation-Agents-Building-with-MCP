@@ -1,3 +1,8 @@
+Guide:
+install nodejs nodejs.org/en/download
+
+mcp server github.com/microsoft/playwright-mcp
+
 Agenda
 
 What is AI Agent?
